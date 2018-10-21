@@ -32,3 +32,20 @@
     `python software_version_numbers.py`
 
     These scripts simply print various outputs to the terminal. Take these examples and integrate them with your system as you require.
+
+* Errors:
+    1.`ImportError:No module named` ...
+    If you get any error as such you will have to download and install the module using `pip`.
+    
+    You can check if pip is installed on your system by simply entering `pip` on your terminal/cmd.
+    If not recognised then download and intall it first.
+    https://bootstrap.pypa.io/get-pip.py
+    If you’re on Python 3.2, you’ll need this version https://bootstrap.pypa.io/3.2/get-pip.py
+
+
+    Suggested module installation (if needed)
+    
+    `pip install virtualenv`
+    `pip install config`
+    
+
