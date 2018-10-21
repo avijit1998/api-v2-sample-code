@@ -3,6 +3,11 @@
 ## Version 2 Sample Code
 
 Sample code in a variety of programming languages for Version 2 of the [WhatIsMyBrowser.com API](https://developers.whatismybrowser.com/api/)
+The sample code is available currently for the following languages:
+1.Python
+2.PHP
+
+Feel free to add more language support. 
 
 ### For more information:
 
